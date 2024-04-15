@@ -1,3 +1,13 @@
-*titulo{
-    
+
+
+.achicar-imagen img{
+    transform: scale(0.5);
 }
+
+.titulo{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
